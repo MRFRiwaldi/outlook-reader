@@ -1,4 +1,10 @@
-# Outlook Reader
+<p align="center">
+  <a href="https://outlookreader.my.id">
+    <img src="https://outlookreader.my.id/og-image.png" alt="Outlook Reader" width="640">
+  </a>
+</p>
+
+<h1 align="center">Outlook Reader</h1>
 
 Alat gratis untuk membaca inbox dan menangkap kode OTP akun Outlook/Hotmail secara massal lewat Microsoft Graph API dan OAuth2. Cek akun LIVE atau DIE, rapikan format, renew token, baca OTP email recovery, sampai generator 2FA. Semua dari satu dashboard yang bersih.
 
@@ -6,6 +12,10 @@ Website: **https://outlookreader.my.id**
 Dokumentasi API: **https://outlookreader.my.id/docs**
 
 > Repo ini berisi dokumentasi dan panduan penggunaan. Aplikasi berjalan di website di atas.
+
+## Tampilan
+
+![Dashboard Outlook Reader](docs/screenshot-desktop.png)
 
 ---
 

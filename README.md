@@ -15,7 +15,7 @@ Dokumentasi API: **https://outlookreader.my.id/docs**
 
 ## Tampilan
 
-![Dashboard Outlook Reader](docs/screenshot-desktop.png)
+![Demo Outlook Reader](docs/demo.gif)
 
 ---
 
